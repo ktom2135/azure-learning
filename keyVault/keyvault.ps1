@@ -11,4 +11,5 @@ az keyvault secret set --vault-name $keyVaultName --name "AppSecret" --value "My
 
 az keyvault secret show --name "AppSecret" --vault-name $keyVaultName
 
+az group delete --name $groupName
 
