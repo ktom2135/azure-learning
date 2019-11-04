@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29215.179
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "api-with-certificate", "api-with-certificate\api-with-certificate.csproj", "{ABA11D3F-D896-44F8-8495-8A1D1B2DEC90}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ABA11D3F-D896-44F8-8495-8A1D1B2DEC90}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ABA11D3F-D896-44F8-8495-8A1D1B2DEC90}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ABA11D3F-D896-44F8-8495-8A1D1B2DEC90}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ABA11D3F-D896-44F8-8495-8A1D1B2DEC90}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F584418A-EB1D-4D78-AC29-AAE3ACF81241}
+	EndGlobalSection
+EndGlobal

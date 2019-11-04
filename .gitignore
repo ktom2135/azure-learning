@@ -1,0 +1,8 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/application_gateway/api-with-certificate/.vs/api-with-certificate
+/application_gateway/api-with-certificate/api-with-certificate/bin
+/application_gateway/api-with-certificate/api-with-certificate/obj/Debug
+/application_gateway/api-with-certificate/packages
